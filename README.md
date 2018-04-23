@@ -15,4 +15,6 @@ Pour la partie « Front-end» :
 *  Développement d’un module Spring Boot
 *  Développement des interfaces graphiques avec Angular 5.
 
-**ENVIRONNEMENT**:  ElasticSearch, Kibana, Java, Spring Boot, Angular 4, Git.
+**ENVIRONNEMENT**
+
+ElasticSearch, Java, Spring Boot, Angular 4, Git.
